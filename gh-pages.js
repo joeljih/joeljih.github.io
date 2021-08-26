@@ -4,9 +4,9 @@ ghpages.publish(
     'public', // path to public directory
     {
         branch: 'gh-pages',
-        repo: 'https://github.com/username/yourproject.git', // Update to point to your repository  
+        repo: 'https://github.com/joeljih/joeljih.github.io', // Update to point to your repository  
         user: {
-            name: 'Your name', // update to use your name
+            name: 'Joel', // update to use your name
             email: 'Your Email address' // Update to use your email
         }
     },
