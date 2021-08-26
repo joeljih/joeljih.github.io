@@ -7,7 +7,7 @@ ghpages.publish(
         repo: 'https://github.com/joeljih/joeljih.github.io', // Update to point to your repository  
         user: {
             name: 'Joel', // update to use your name
-            email: 'Your Email address' // Update to use your email
+            email: 'joel.jih@gmail.com' // Update to use your email
         }
     },
     () => {
