@@ -4,13 +4,16 @@
 </script>
 
 <main>
-	<h1> Testing 123 </h1>
-	<p> Bob is {success} </p>
-	<p> Seriously </p>
-	<h1> Pew pew  </h1>
+	<h1> Testing this 2nd version </h1>
+	<p> please deploy </p>
 </main>
 
 <style>
+	p{
+		font-family:'Times New Roman', Times, serif;
+		font-size: 2em;
+		color: azure;
+	}
 	main {
 		text-align: center;
 		padding: 1em;
