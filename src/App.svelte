@@ -9,11 +9,7 @@
 </main>
 
 <style>
-	p{
-		font-family:'Times New Roman', Times, serif;
-		font-size: 2em;
-		color: azure;
-	}
+	
 	main {
 		text-align: center;
 		padding: 1em;
@@ -27,7 +23,11 @@
 		font-size: 4em;
 		font-weight: 100;
 	}
-
+p{
+		font-family:'Times New Roman', Times, serif;
+		font-size: 2em;
+		color: azure;
+	}
 	@media (min-width: 640px) {
 		main {
 			max-width: none;
