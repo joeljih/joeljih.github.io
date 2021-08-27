@@ -1,5 +1,5 @@
 <script>
-	export let name;
+	//export let name;
 	let userName = "roberto";
 </script>
 
@@ -7,6 +7,7 @@
 	<h1> Hello this is an update </h1>
 	<p> What a pain in the ass for {userName} </p>
 	<p> Seriously </p>
+	<h1> Why doesn't this update to the thing </h1>
 </main>
 
 <style>
