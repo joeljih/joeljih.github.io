@@ -1,13 +1,13 @@
 <script>
 	//export let name;
-	let userName = "roberto";
+	let success = "it's alive";
 </script>
 
 <main>
-	<h1> Hello this is an update </h1>
-	<p> What a pain in the ass for {userName} </p>
+	<h1> Testing 123 </h1>
+	<p> Bob is {success} </p>
 	<p> Seriously </p>
-	<h1> Why doesn't this update to the thing </h1>
+	<h1> Pew pew  </h1>
 </main>
 
 <style>
