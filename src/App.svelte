@@ -1,15 +1,17 @@
 <script>
 	//export let name;
 	let success = "it's alive";
+    let red = "red";
+
 </script>
 
 <main>
 	<h1> This sucks </h1>
-    <p> Hello {success} </p>
+    <p class:red> Hello {success} </p>
 </main>
 
 <style>
-	
+	.red {color: red;}
 	main {
 		text-align: center;
 		padding: 1em;
