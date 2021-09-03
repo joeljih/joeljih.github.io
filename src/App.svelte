@@ -6,6 +6,7 @@
 <main>
 	<h1> Testing this 2nd version </h1>
 	<p> please deploy </p>
+    <h1> If this works...</h1>
 </main>
 
 <style>
@@ -26,7 +27,7 @@
 p{
 		font-family:'Times New Roman', Times, serif;
 		font-size: 2em;
-		color: azure;
+		color: red;
 	}
 	@media (min-width: 640px) {
 		main {
