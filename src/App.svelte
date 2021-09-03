@@ -4,9 +4,8 @@
 </script>
 
 <main>
-	<h1> Testing this 2nd version </h1>
-	<p> please deploy </p>
-    <h1> If this works...</h1>
+	<h1> This sucks </h1>
+    <p> Hello {success} </p>
 </main>
 
 <style>
